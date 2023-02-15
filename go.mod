@@ -46,9 +46,9 @@ require (
 	github.com/mna/pigeon v1.0.1-0.20180808201053-bb0192cfc2ae
 	github.com/opentracing/opentracing-go v1.2.0
 	github.com/pkg/errors v0.9.1
-	github.com/prometheus/client_golang v1.5.1
+	github.com/prometheus/client_golang v1.11.1
 	github.com/prometheus/client_model v0.2.0
-	github.com/prometheus/common v0.9.1
+	github.com/prometheus/common v0.26.0
 	github.com/retailnext/hllpp v1.0.0
 	github.com/spf13/cast v1.3.0
 	github.com/spf13/cobra v1.0.0
@@ -176,7 +176,7 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.11 // indirect
 	github.com/pkg/browser v0.0.0-20210911075715-681adbf594b8 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
-	github.com/prometheus/procfs v0.0.8 // indirect
+	github.com/prometheus/procfs v0.6.0 // indirect
 	github.com/ryanuber/go-glob v1.0.0 // indirect
 	github.com/satori/go.uuid v1.2.1-0.20181028125025-b2ce2384e17b // indirect
 	github.com/segmentio/kafka-go v0.1.0 // indirect
